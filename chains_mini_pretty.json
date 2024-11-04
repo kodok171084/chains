@@ -7747,6 +7747,19 @@
   "faucets": [],
   "infoURL": "https://rubychain.io"
 }, {
+  "name": "PlayBlock",
+  "chainId": 1829,
+  "shortName": "playblock",
+  "networkId": 1829,
+  "nativeCurrency": {
+    "name": "PlayBlock",
+    "symbol": "PBG",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.playblock.io", "wss://ws.playblock.io"],
+  "faucets": [],
+  "infoURL": "https://www.playnance.com"
+}, {
   "name": "HighOctane Subnet",
   "chainId": 1853,
   "shortName": "HighOctane",
@@ -15871,6 +15884,19 @@
   "rpc": ["https://atlantis-web3.blockxnet.com"],
   "faucets": ["https://ping.blockxnet.com/blockx-atlantis-testnet/faucet"],
   "infoURL": "https://www.blockxnet.com/"
+}, {
+  "name": "LocaChain Mainnet",
+  "chainId": 19180,
+  "shortName": "locachain",
+  "networkId": 19180,
+  "nativeCurrency": {
+    "name": "LocaCoin",
+    "symbol": "LCC",
+    "decimals": 18
+  },
+  "rpc": ["https://tgrpntwm.locachain.io"],
+  "faucets": [],
+  "infoURL": "https://locachain.io"
 }, {
   "name": "BlockX Mainnet",
   "chainId": 19191,
@@ -25608,6 +25634,19 @@
   "rpc": ["https://rpc.stage.fluence.dev", "wss://ws.stage.fluence.dev"],
   "faucets": [],
   "infoURL": "https://fluence.network/"
+}, {
+  "name": "volmex",
+  "chainId": 123420000588,
+  "shortName": "volmex",
+  "networkId": 123420000588,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.volmex.t.raas.gelato.cloud", "wss://ws.volmex.t.raas.gelato.cloud"],
+  "faucets": [],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/volmex"
 }, {
   "name": "Ntity Mainnet",
   "chainId": 197710212030,
